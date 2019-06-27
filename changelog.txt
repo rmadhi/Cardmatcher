@@ -1,0 +1,101 @@
+Project Plan Created and submitted .
+
+02/04/2019 : 
+Task :Resource/Requirement gathering 
+Time spent : 4 hrs
+
+06/04/2019
+Task : Creating the basic layout of the project
+Time Spent : 2 hrs
+Work log : Created the basic project structure 
+		    worked on the fonts
+			worked on the creating of the style sheets 
+Status :   Completed`
+-------------------------------------------------------------------------------------------------------
+10/04/2019-11/04/2019
+Task : Design the card layout and grid in the HTML page
+Time spent : 4 hrs
+Work log : designed the HTML static page with the cards to display
+			Tried working with the CSS properties and layouts 
+			learned the DOM concepts intro 
+status :    created the static pages but the cards are hardwired which needs to be changed
+			designed the CSS properties for the elements
+---------------------------------------------------------------------------------------------------------------		
+13/04/2019
+Task : Initializing and loading the array elements
+Time Spent : 3 hrs
+Work log : Created a TEST file and loaded few images 
+			derived the images from the array and used in the script objects
+			learned how to create and  work on functions calling the arrays
+			Created a separate dataset file to call the elements of the array 
+Status :  completed the TEST and need to implement the same to call the functions 			
+----------------------------------------------------------------------------------------------------------
+16/04/2019
+Task : Display Of the cards
+Time Spent : 4 hrs 
+Work log : The Array are used to load the data and game has been created using the DOM 
+		  the game grid creates the card layout based on the number of elements available for the array
+		  The card alignment and placement is made 
+		  created the front face of the card 
+Status : Created the card layout and displays the images from array need to write the operations on these
+--------------------------------------------------------------------------------------------------------------
+21/04/2019
+Task : Duplicate the Array elements and Randomize the cards
+Time spent : 5 hrs
+Work log : The array elements are duplicated each of it by using the concat
+			The duplicate array is looped through the game 
+			using the sort function  and math random the game cards are shuffled each time 
+Status : Errors occurred while creating the duplication  of array list elements.sorted a few and shuffle is working
+-------------------------------------------------------------------------------------------------------------------------
+ 24/04/2019
+ Task : Styling the cards,Clear the errors while generating the array 
+ Time Spent : 2 hrs
+ Work log : styled the card selections and created the border layout for each elements
+			event listeners to create the clicked elements highlighted every clicked
+Status : Completed 
+Release : basic version 1
+-------------------------------------------------------------------------------------------------------------
+28/04/2019
+Task : selecting only 2 cards and defining they are match
+Time Spent : 6 hrs
+work log  : create the functions and implemented the logic to select only 2 cards on a particular clicked session
+			matching of cards and hiding them by adjusting it with the css properties
+			The matched cards are marked around the function 
+Status: 	The next update would be on working on the multiple array elements as there is a problem finding the element by object same name property 
+Release : Release pending
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+30/04/2019
+Task : Display Of the cards in the game grid 
+Time Spent : 4 hrs 
+Work log : The Array are used to load the data and game has been created using the DOM 
+		  the game grid creates the card layout based on the number of elements available for the array
+		  The card alignment and placement is made 
+		  created the front face of the card 
+ Status : Created the card layout and displays the images from array , written the operations on these
+ Release : Release pending
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+04/05/2019
+Task : Delay  card elements  and reset the cards 
+Time Spent : 3 hrs
+Work log : created the delay elements for each match and cards
+		  Reset the game cards to initial position.
+Status: Cards are delayed after the click and match reset the game counters
+Release : Release version 1.2
+---------------------------------------------------------------------------------------------------------------------------------------
+07/05/2019
+Task :Test the game on Device and adjust the css property
+Time spent : 3 hrs
+work log : Tested the each function element by using the responsive and tab view
+			changed a few properties in the css sheet for different element
+status: Testing is completed and adjusted the property layout	
+Release : Release version 1.3
+------------------------------------------------------------------------------------------------------------------------------------------------------
+10/05/2019
+Task :Create the match and timer to calculate the session time on click
+Time spent : 4 hrs
+Work log : timer function is implemented to capture the event state of the function.
+			Match elements are disappeared.
+Status : Successfully implemented
+Release : Version 1.4
+-----------------------------------------------------------------------------------------------------------
+
